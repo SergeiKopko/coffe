@@ -1,0 +1,305 @@
+
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="ru" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="ru" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="ru">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Всё, что нужно знать о кофе.</title>
+<base href="https://mechtashop.ru/" />
+<meta name="description" content="Как отличить арабику от робусты, определить степень обжарки, какой помол выбрать, а также другие интересные факты о кофе." />
+<meta name="keywords" content= "все о кофе" />
+<meta property="og:title" content="Всё, что нужно знать о кофе." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://mechtashop.ru/blog/vsjo-chto-nuzhno-znat-o-kofe.html" />
+<meta property="og:image" content="https://mechtashop.ru/image/catalog/kolca/logo.png" />
+<meta property="og:site_name" content="МЕЧТАШОП" />
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/next_default/stylesheet/stylesheet.css" rel="stylesheet">
+
+              <script src="https://api.fondy.eu/static_common/v1/checkout/ipsp.js"></script>
+			
+<link href="catalog/view/javascript/jquery/magnific/magnific-popup.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/next-default/common.js" type="text/javascript"></script>
+<link href="https://mechtashop.ru/blog/vsjo-chto-nuzhno-znat-o-kofe.html" rel="canonical" />
+<link href="https://mechtashop.ru/image/catalog/kolca/minilogo.png" rel="icon" />
+<script src="catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js" type="text/javascript"></script>
+</head>
+<body class="newsblog-article">
+<nav id="top">
+    <div class="container">
+        <div class="pull-left">
+<form action="https://mechtashop.ru/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency">
+  <div class="btn-group">
+    <button class="btn btn-link dropdown-toggle" data-toggle="dropdown">
+                            <strong> р.</strong>
+            <span class="hidden">Валюта</span> <i class="fa fa-caret-down"></i></button>
+    <ul class="dropdown-menu">
+                  <li><button class="currency-select btn btn-link btn-block" type="button" name="EUR">€ Euro</button></li>
+                        <li><button class="currency-select btn btn-link btn-block" type="button" name="USD">$ US Dollar</button></li>
+                        <li><button class="currency-select btn btn-link btn-block" type="button" name="RUB"> р. Рубль</button></li>
+                </ul>
+  </div>
+  <input type="hidden" name="code" value="" />
+  <input type="hidden" name="redirect" value="https://mechtashop.ru/blog/vsjo-chto-nuzhno-znat-o-kofe.html" />
+</form>
+</div>
+                <div id="top-link" class="nav pull-left">
+            <ul class="list-inline">
+                <li class="dropdown"><a href="https://mechtashop.ru/my-account/" title="Личный кабинет" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm">Личный кабинет</span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu dropdown-menu-left">
+                                                    <li><a href="https://mechtashop.ru/simpleregister/">Регистрация</a></li>
+                            <li><a href="https://mechtashop.ru/login/">Авторизация</a></li>
+                                            </ul>
+            </ul>
+        </div>
+        <div id="top-links" class="nav pull-right">
+            <ul class="list-inline">
+                <li><a href="https://mechtashop.ru/wishlist/" id="wishlist-total" title="Мои закладки (0)"><i class="fa fa-heart"></i> <span class="hidden-xs hidden-sm hidden-md">Мои закладки (0)</span></a></li>
+                <li><a href="https://mechtashop.ru/simplecheckout/" title="Корзина покупок"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md">Корзина покупок</span></a></li>
+                <li><a href="https://mechtashop.ru/simplecheckout/" title="Оформление заказа"><i class="fa fa-share"></i> <span class="hidden-xs hidden-sm hidden-md">Оформление заказа</span></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<header>
+    <div id="top2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <div id="logo">
+                                                                                    <a href="https://mechtashop.ru/"><img src="https://mechtashop.ru/image/catalog/kolca/logo.png" title="МЕЧТАШОП" alt="МЕЧТАШОП" class="img-responsive" /></a>
+                                                                            <div class='data_name tagline'><span class="name tagline">С радостью ответим на все Ваши вопросы и воплотим Ваши мечты</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class='phone'><a href="tel:8-900-34-777-15"><i class="fa fa-phone"></i> <span class="">8-900-34-777-15</span></a></div>
+                    <div class='data_open'><i class="fa fa-clock-o" aria-hidden="true"></i> <span class="">каждый Божий день</span></div>
+                </div>
+                <div id="md-size" class="col-sm-3"><div id="search" class="input-group">
+  <input type="text" name="search" value="" placeholder="Поиск товара по каталогу" class="form-control input-lg" />
+  <span class="input-group-btn">
+    <button type="button" class="btn btn-default btn-lg"><i class="fa fa-search"></i></button>
+  </span>
+</div>                </div>
+                <div class="col-sm-3"><div id="cart" class="btn-group btn-block">
+  <button type="button" data-toggle="dropdown" data-loading-text="Загрузка..." class="btn btn-block btn-lg dropdown-toggle"><i class="fa fa-shopping-cart"></i> <span id="cart-total">0 товар(ов) - 0.00 р.</span></button>
+  <ul class="dropdown-menu pull-right">
+        <li>
+      <p class="text-center">В корзине пусто!</p>
+    </li>
+      </ul>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="fix-menu">
+    <div id="top3">
+                <div class="container">
+          <nav id="menu" class="navbar">
+            <div class="navbar-header"><span id="category" class="visible-xs">Категории</span>
+              <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+              <ul class="nav navbar-nav">
+                                                <li><a href="https://mechtashop.ru/yarkie-broshi/">ЯРКИЕ БРОШИ</a></li>
+                                                                <li><a href="https://mechtashop.ru/neobychnye-chasy/">НЕОБЫЧНЫЕ ЧАСЫ</a></li>
+                                                                <li><a href="https://mechtashop.ru/shikarnye-brelki/">ШИКАРНЫЕ БРЕЛКИ</a></li>
+                                                                <li><a href="https://mechtashop.ru/krasivye-sergi/">КРАСИВЫЕ СЕРЬГИ</a></li>
+                                                                <li><a href="https://mechtashop.ru/udivitelnye-kolca/">УДИВИТЕЛЬНЫЕ КОЛЬЦА</a></li>
+                                                                <li><a href="https://mechtashop.ru/ehkskursii-po-kaliningradu-i-oblasti/">ЭКСКУРСИИ</a></li>
+                                                                <li><a href="https://mechtashop.ru/blog/">БЛОГ</a></li>
+                                              </ul>
+            </div>
+          </nav>
+        </div>
+            </div>
+</div><div class="container">
+  <ul class="breadcrumb">
+        <li><a href="https://mechtashop.ru/"><i class="fa fa-home"></i></a></li>
+        <li><a href="https://mechtashop.ru/blog/">БЛОГ</a></li>
+        <li><a href="https://mechtashop.ru/blog/vsjo-chto-nuzhno-znat-o-kofe.html">Всё, что нужно знать о кофе</a></li>
+      </ul>
+  <div class="row">                <div id="content" class="col-sm-12">      <div class="row">
+        <div class="col-sm-8">
+        	<h1>Всё, что нужно знать о кофе</h1>
+          	Как отличить арабику от робусты, определить степень обжарки, какой помол выбрать, а также другие интересные факты о кофе.
+          	<h4>Кофе - это всемирно известный напиток, сделанный из обжаренных и измельчённых зёрен кофейного дерева.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-samyj-populyarnyj-napitok-v-mire.jpg" style="width: 600px;"><br></p><h4>Кофейное дерево представляет собой небольшие вечнозелёные деревья или крупные кустарники высотой до 8 метров и продолжительностью жизни 60-70 лет!</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofejnoe-derevo-foto.jpg" style="width: 600px;"><br></p><h4>Ароматное дерево цветет красивыми белыми цветками с сильным тропическим запахом.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/cvety-kofejnogo-dereva.jpg" style="width: 600px;"><br></p><h4>Плоды красного или бордового цвета имеют от одного до трёх семян (зёрен).</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/plody-kofejnogo-dereva-3.jpg" style="width: 600px;"></p><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/plody-kofejnogo-dereva-2.jpg" style="width: 600px;"></p><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/plody-kofejnogo-dereva-4.jpg" style="width: 600px;"><br></p><h4>Все части растения содержат кофеин, который в природе служит для отпугивания вредителей.</h4><h4>Поэтому в местах произрастания можно встретить напиток из высушенных и обжаренных цветков кофе.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-iz-sushenyh-cvetkov-kofejnogo-dereva.jpg" style="width: 600px;"><br></p><h4>Наибольшая концентрация кофеина содержится в зёрнах.</h4><h4>Изначально зёрна желто-зелёно-серого цвета.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/zelenyj-syroj-kofe.jpg" style="width: 600px;"><br></p><h4>Чтобы получить привычный насыщенный коричневый "кофейный" цвет их специально обжаривают.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/neobzharenyj-i-obzharenyj-kofe.jpg" style="width: 600px;"><br></p><h4>Несмотря на то, что существует около 100 видов кофейных деревьев, целенаправленно культивируются только два вида:</h4><h4>1. Аравийское, из семян которого делают сорт арабика - самый распространённый вид в мире (70% мирового потребления). Зерна арабики имеют продолговатую форм, S-образную разделительную полосу и отличаются особым ароматом.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/sort-kofe-arabika.jpg" style="width: 600px;"><br></p><h4>2. Конголезское - сорт робуста. Зёрна робусты округлой формы, обладают менее изысканным ароматом, зато имеют высокое содержание кофеина.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/sort-kofe-robusta.png" style="width: 600px;"></p><h4>При ближайшем рассмотрении отличия арабики и робусты более очевидны.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-arabika-i-robusta-otlichie.jpg" style="width: 600px;"></p><h4>Согласно распространённой, но не подтверждённой легенде кофе начали употреблять в Эфиопии в далёком 850 году.</h4><h4>Примерно в это время пастух Калдим, наблюдая за козами, обнаружил тонизирующие свойства яркой ягоды.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/pastuh-kaldim-legenda-o-kofe.jpg" style="width: 600px;"><br></p><h4>Причём изначально в пищу употреблялась только сочная мякоть плодов,</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/plody-kofejnogo-dereva.jpg" style="width: 600px;"><br></p><h4>затем отвар из высушенной мякоти - белый йеменский кофе (гешир или кишр).</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/belyj-jemenskij-kofe.jpg" style="width: 600px;"><br></p><h4>Арабы ели давленые кофейные зёрна, смешивая их с животным жиром и молоком.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofejnye-shariki.png" style="width: 600px;"><br></p><h4>В 12 веке начали готовить напиток из сырых зёрен</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-iz-syryh-zyoren.png" style="width: 600px;"><br></p><h4>и только с 13 века кофе перед приготовлением стали обжаривать и измельчать.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/obzharka-kofe.jpg" style="width: 600px;"></p><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/izmelchenie-pomol-kofe.jpg" style="width: 600px;"><br></p><h4>Обжарка - один из основных этапов современного приготовления кофе во многом определяющая его вкус.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/stepeni-obzharki-kofe-2.jpg" style="width: 600px;"><br></p><h4>Выделяют четыре степени обжарки:</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/stepeni-obzharki-kofe.jpg" style="width: 600px;"><br></p><h4>- лёгкая или скандинавская,</h4><h4>- слегка тёмная - венская,</h4><h4>- тёмная - французская,</h4><h4>- самая тёмная - итальянская.</h4><h4>Существуют и другие градации.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/stepeni-obzharki-kofe-3.jpg" style="width: 600px;"></p><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/stepeni-obzharki-kofe-4.jpg" style="width: 600px;"><br></p><h4>Как правило, производители продают кофе в не обжаренном состоянии, поскольку зелёное кофе храниться гораздо дольше.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-transportiruetsya-v-syrom-vide.jpg" style="width: 600px;"><br></p><h4>На вкус кофе также влияет степень помола: грубый, средний, мелкий (тонкий) и самый мелкий (сверхтонкий) помол.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/stepen-pomola-zeren-kofe.jpg" style="width: 600px;"></p><h4>Причем помол кофе напрямую зависит от способа его дальнейшего приготовления.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kak-vybrat-stepen-pomola-kofe.jpg" style="width: 600px;"></p><h4>Молотый кофе быстро теряет вкус и аромат, поэтому рекомендуется его молоть непосредственно перед употреблением.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/molot-kofe-pered-upotrebleniem.jpg" style="width: 600px;"><br></p><h4>Кофе можно купить в кофейне, но гораздо интереснее самостоятельно приготовить разными способами: </h4><h4>1. С помощью турки. Турка или джезва - посуда в виде ковша для варки кофе по-восточному (по-турецки).</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-v-turke-po-vostochnomu.jpg" style="width: 600px;"><br></p><h4>2. Френч-пресс - популярное устройство для заваривания кофе. Зерна засыпают в стеклянную колбу, заливают горячей водой и накрывают крышкой с фильтром, который находится в поднятом положении. После настаивания фильтр опускают вниз.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-french-press.jpg" style="width: 600px;"><br></p><h4>3. Кемекс - модное "дизайнерское" приспособление для заварки кофе. </h4><h4><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-kemeks.jpg" style="width: 600px;"><br></h4><h4>Состоит из колбы и воронки, в которой устанавливается бумажный фильтр. </h4><h4>Процесс приготовления кофе в кемексе просто завораживает:</h4><h4>В колбу вставляют фильтр, который смачивается водой. Остатки воды сливаются.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-kemekse.jpg" style="width: 600px;"></p><h4>Далее в фильтр насыпается кофе, преимущественно светлой обжарки грубого помола, и заливается горячей водой.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-kemekse-2.jpg" style="width: 600px;"><br></p><h4>4. Сифон или габет для кофе для двоечников по физике и вовсе покажется настоящим волшебством.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-v-sifone.jpg" style="width: 600px;"><br></p><h4>В нижнюю колбу помещается вода, а в верхнюю - кофе. Обе колбы соединяются фильтром. Нижняя колба нагревается с помощью горелки, находящаяся в ней вода расширяется от нагревания, давление повышается и вся вода постепенно поднимается в верхнюю колбу, проходя через молотые зерна кофе. После этого горелку убирают и уже заваренный кофе возвращается в первую колбу. </h4><h4><img src="https://mechtashop.ru/image/catalog/blog/kofe/process-prigotovleniya-kofe-v-sifone-poehtapno-skhema.jpg" style="width: 600px;"><br></h4><h4>Выглядит очень впечатляюще!</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-sifone-2.jpg" style="width: 600px;"><br></p><h4>5. Пуровер (от английского "pour over" лить сверху) - японское изобретение, призванное адаптировать приготовление кофе по типу чайной церемонии. Принцип действия похож на кемекс, только вместо стеклянной воронки применяется специальная воронка похожая на чашку (дриппер) и горячая вода заливается сквозь фильтр с кофе из чайника с длинным тонким носиком в течении 2 минут.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-purovere-hario.jpg" style="width: 600px;"><br></p><h4>6. Гейзер или гейзерная кофеварка - кофеварка построенная по принципу сифона, </h4><h4><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-gejzernoj-kofevarke.jpg" style="width: 600px;"><br></h4><h4>только поднявшаяся и насыщенная кофе вода не опускается вниз, а остаётся в верхнем резервуаре.</h4><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-gejzernoj-kofevarke-2.png" style="width: 350px;"><br></p><h4>7. Аэропресс - простое и гениальное изобретение в виде гигантского шприца с фильтром в основании цилиндра, позволяющее быстро заваривать кофе при невысокой температуре</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-aehropresse.jpg" style="width: 600px;"><br></p><h4>и самый простой способ - кофемашина.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-kofe-v-kofejnoj-mashine.jpg" style="width: 600px;"><br></p><h4>Каждый уважающий себя кофе имеет тело (насыщенность), вкус и аромат, которые зависят от сорта, степени обжарки, помола и способ приготовления.<br></h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-arabika-i-robusta-otlichie-2.jpg" style="width: 600px;"></p><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/vliyanie-stepeni-obzharki-na-vkus-kofe.png" style="width: 600px;"></p><h4>Более подробно:</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/vliyanie-stepeni-obzharki-na-vkus-kofe-2.jpg" style="width: 600px;"></p><h4>Самые популярные напитки из кофе:</h4><h4><u>Эспрессо</u> - классический кофейный напиток приготовленный из 7-10 г свежесмолотого кофе, через который под давлением 9 бар пропущено 30 г кипящей воды. На настоящем эспрессо должна быть пенка кремого цвета ("крема"), и выпить его нужно сразу - эспрессо быстро остывает и теряет аромат. Подаётся в специальной чашке демитассе объёмом 60-70 мл.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/ehspresso-kofe.jpg" style="width: 600px;"><br></p><h4><u>Доппио</u> - двойная порция эспрессо.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/doppio-kofe.jpg" style="width: 600px;"><br></p><h4><u>Лунго</u> - вместо 30 используется 70 г воды.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/lungo-kofe.jpg" style="width: 600px;"><br></p><h4><u>Американо</u> состоит из 1/4 части эспрессо и 3/4 части воды.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/amerikano-kofe.jpg" style="width: 600px;"><br></p><h4><u>Ристретто</u> более концентрированный вариант эспрессо (всего 20 г воды).</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/ristretto-kofe.jpg" style="width: 600px;"><br></p><h4><u>Макиато</u> - эспрессо и небольшое количество взбитого молока.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/makiato-kofe.jpg" style="width: 600px;"><br></p><h4><u>Кофе по-венски</u> - эспрессо со взбитыми сливками.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-po-venski.jpg" style="width: 600px;"><br></p><h4><u>Капучино</u> - итальянский кофейный напиток состоящий из эспрессо, молока и молочной пены в равной пропорции. Подаётся в керамических чашках 150-180 мл.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kapuchino.jpg" style="width: 600px;"><br></p><p></p><h4><u>Латте</u> - имеет соотношение 1/4 эспрессо, 2/4 молока и 1/4 молочной пенки. Принято подавать в стеклянном бокале 240-360 с салфеткой.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofe-latte.jpg" style="width: 600px;"></p><h4>Латте имеет большее содержание молока, а капучино более пышную пенку.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/otlichie-kapuchino-i-latte-2.jpg" style="width: 600px;"></p><h4>Не забываем о способе подачи.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/otlichie-kapuchino-i-latte.jpg" style="width: 600px;"><br></p><h4><u>Латте макиато</u> отличается от латте последовательностью добавления ингредиентов: в латте молоко добавляют к кофе, а в латте макиато наоборот кофе в молоко.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/prigotovlenie-latte-makiato.jpg" style="width: 600px;"></p><h4>Кроме того, латте макиато имеет слоистую структуру.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/otlichie-latte-ot-latte-makiato.png" style="width: 600px;"><br></p><h4><u>Мокка</u> или моккачино - латте с добавлением шоколада.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/mokka-ili-mokkachino-kofe.jpg" style="width: 600px;"><br></p><h4><u>Гляссе </u>- французский холодный кофейный напиток с мороженым и тёртым шоколадом.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/glyasse-kofe.jpg" style="width: 600px;"><br></p><h4><u>Раф </u>- российский шедевр кофейного творчества состоящий из эспрессо, ванильного сахара, сиропа и взбитого молока или сливок.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/raf-kofe.jpg" style="width: 600px;"><br></p><h4><u>Айриш </u>- алкогольный кофейный напиток с ирландским виски, коричневым сахаром и взбитыми сливками.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/ajrish-kofe-s-irlandskim-viski.jpg" style="width: 600px;"><br></p><h4><u>Бичерин</u> - белый шоколад, темный шоколад, эспрессо и взбитые сливки.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/bicherin-kofe.jpg" style="width: 600px;"><br></p><h4>Кофейная карта для лучшего понимания и запоминания.</h4><p><img src="https://mechtashop.ru/image/catalog/blog/kofe/kofejnaya-karta-skhema-sostav-kofejnyh-napitkov.jpg" style="width: 600px;"><br></p><p></p><h4>За сим прощаюсь. Читайте наш блог, выпейте чашечку кофе и будьте счастливы!</h4>        </div>
+
+        <div class="col-sm-4">
+        	          	<ul class="thumbnails">
+	            	            <li><a class="thumbnail" href="https://mechtashop.ru/image/cache/catalog/blog/kofe/vsjo-chto-nuzhno-znat-o-kofe-600x400.jpg" title="Всё, что нужно знать о кофе"><img src="https://mechtashop.ru/image/cache/catalog/blog/kofe/vsjo-chto-nuzhno-znat-o-kofe-228x228.jpg" title="Всё, что нужно знать о кофе" alt="Всё, что нужно знать о кофе" /></a></li>
+	            	                      	</ul>
+          	
+          	        </div>
+      </div>
+
+  	  
+      
+      
+      
+            <h3>Рекомендуемые товары</h3>
+      <div class="row">
+                                                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+          <div class="product-thumb transition">
+            <div class="image"><a href="https://mechtashop.ru/yarkie-broshi/chashechka-kofe.html"><img src="https://mechtashop.ru/image/cache/catalog/broshi2/brosh-chashka-kofe-80x80.jpg" alt="Брошь чашечка кофе" title="Брошь чашечка кофе" class="img-responsive" /></a></div>
+            <div class="caption">
+              <h4><a href="https://mechtashop.ru/yarkie-broshi/chashechka-kofe.html">Брошь чашечка кофе</a></h4>
+              <p>Уникальная 3D брошь в виде ароматной чашки свежемолотого кофе.Представьте любимый еспрессо, американ..</p>
+                            <div class="rating">
+                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span>
+                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span>
+                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span>
+                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span>
+                                                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span>
+                                              </div>
+                                          <p class="price">
+                                540.00 р.                                              </p>
+                          </div>
+            <div class="button-group">
+              <button type="button" onclick="cart.add('375', '1');"><span class="hidden-xs hidden-sm hidden-md">В корзину</span> <i class="fa fa-shopping-cart"></i></button>
+              <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('375');"><i class="fa fa-heart"></i></button>
+              <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('375');"><i class="fa fa-exchange"></i></button>
+            </div>
+          </div>
+        </div>
+                              </div>
+      
+            </div>
+    </div>
+</div>
+
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('.thumbnails').magnificPopup({
+		type:'image',
+		delegate: 'a',
+		gallery: {
+			enabled:true
+		}
+	});
+});
+//--></script>
+<footer>
+    <div id="alerts" class="container">
+        <div class="row">
+                            <div class="col-sm-3">
+                    <h5>Информация</h5>
+                    <ul class="list-unstyled">
+                                                    <li><a href="https://mechtashop.ru/o-nas.html">О нас</a></li>
+                                                    <li><a href="https://mechtashop.ru/delivery.html">Информация о доставке и оплате</a></li>
+                                            </ul>
+                </div>
+                        <div class="col-sm-3">
+                <h5>Дополнительно</h5>
+                <ul class="list-unstyled">
+                    <li><a href="https://mechtashop.ru/search/">Поиск</a></li>
+                    <li><a href="https://mechtashop.ru/specials/">Товары со скидкой</a></li>
+                    <li><a href="https://mechtashop.ru/brands/">Производители</a></li>
+                    <li><a href="https://mechtashop.ru/compare-products/">Сравнение товаров</a></li>
+                    <li><a href="https://mechtashop.ru/vouchers/">Подарочные сертификаты</a></li>
+                    <li><a href="https://mechtashop.ru/affiliates/">Партнёры</a></li>
+                    <li><a href="https://mechtashop.ru/sitemap/">Карта сайта</a></li>
+
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h5>Личный кабинет</h5>
+                <ul class="list-unstyled">
+                    <li><a href="https://mechtashop.ru/my-account/">Личный кабинет</a></li>
+                    <li><a href="https://mechtashop.ru/order-history/">История заказов</a></li>
+                    <li><a href="https://mechtashop.ru/wishlist/">Мои закладки</a></li>
+                    <li><a href="https://mechtashop.ru/newsletter/">Рассылка новостей</a></li>
+                </ul>
+                <h5>Служба поддержки</h5>
+                <ul class="list-unstyled">
+                    <li><a href="https://mechtashop.ru/contact-us/">Связаться с нами</a></li>
+                    <li><a href="https://mechtashop.ru/add-return/">Возврат товара</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h5>АКСЕССУАРЫ ВАШЕЙ МЕЧТЫ</h5>
+                <div class="data-footer">
+                    <strong><!--?php echo $text_telephone; ?--></strong>
+                    <p><i class="fa fa-phone"></i> 8-900-34-777-15</p>
+                    <strong><!--?php echo $text_address; ?--></strong>
+                    <p><i class="fa fa-globe"></i> г. Калининград, ул. Летняя д.72</p>
+                    <strong><!--?php echo $text_email; ?--></strong>
+                    <p><a target="_blank" href="mailto:vasilenko.mv@mail.ru"><i class="fa fa-envelope"></i> vasilenko.mv@mail.ru</a></p>
+                    <strong><!--?php echo $text_open; ?--></strong>
+                    <!--p><i class="fa fa-clock-o"></i> каждый Божий день</p-->
+                    <p class="short-description">Вам хочется порадовать себя, любимых и близких людей приятными мелочами? Ищете аксессуары для души, которые ярко подчеркнут Ваш безупречный стиль и вкус? Тогда, наш дорогой клиент, мы рады воплотить Ваши мечты в реальность, так как «МЕЧТАШОП» - это и есть аксессуары Вашей мечты! Тщательно подобранный ассортимент товаров удовлетворит самые требовательные запросы. Мы постоянно пополняем магазин модными товарами, чтобы Вы вместе с нами всегда были в тренде! «МЕЧТАШОП» поможет Вам выглядеть стильно, красиво и просто блестяще по самым выгодным ценам! Интересно? Тогда скорее заходи в любимый раздел и выбирай!
+</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <p>Работает на <a target="_blank" href="http://myopencart.com/">ocStore</a><br /> МЕЧТАШОП &copy; 2025</p>
+        <div id='updown' class="hidden-xs">
+            <button id="up" class='updown'><i class="fa fa-angle-up" aria-hidden="true"></i></button>
+            <button id="down" class='updown'><i class="fa fa-angle-down" aria-hidden="true"></i></button>
+        </div>
+    </div>
+</footer>
+
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+
+<!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
+<script src="catalog/view/javascript/next-default/nextmenufix.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/next-default/jquery.easydropdown.js" type="text/javascript"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45144549 = new Ya.Metrika({
+                    id:45144549,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45144549" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101945694-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body></html>
